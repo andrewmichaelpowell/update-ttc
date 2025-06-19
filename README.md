@@ -1,2 +1,1 @@
-# update-ttc
-Update-TTC
+This script is designed for people who play Elder Scrolls Online with the Tamriel Trade Centre addon on MacOS.  Because there is no native MacOS client for the addon, MacOS users normally need to manually update price data from the Tamriel Trade Centre website.  This script automatically downloads the data files and places them in the default folder used by the addon.  As long as it is running, it will download and update the price data once per hour.
