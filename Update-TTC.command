@@ -18,5 +18,5 @@ do
   rm -f ~/Downloads/PriceTableUS.zip
   rm -fr ~/Downloads/PriceTableEU
   rm -fr ~/Downloads/PriceTableUS
-  sleep 14400
+  sleep 28800
 done
