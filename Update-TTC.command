@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# ++++++++++++++++++++++++++++++++++++
-# +  Update-TTC                      +
-# +  github.com/andrewmichaelpowell  +
-# ++++++++++++++++++++++++++++++++++++
+# Update-TTC
+# github.com/andrewmichaelpowell
 
 while true
 do
